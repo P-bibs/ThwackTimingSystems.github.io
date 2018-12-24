@@ -6,6 +6,8 @@ order: 2
 
 Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
 
+>Download all the files below [HERE](https://drive.google.com/drive/folders/1Q-u7U18tI-8YRp86teNnI6xgnS-2nZSA?usp=sharing)!
+
 > Signing up with Facebook automatically starts syncing contacts.
 
 To sync your contacts:

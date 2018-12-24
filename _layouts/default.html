@@ -36,6 +36,7 @@
 				<input type="text" name="q" id="search-input" placeholder="Search" autofocus>
 				<input type="submit" value="Search" style="display: none;">
 			</form>
+			
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
 				<ul>
@@ -47,6 +48,11 @@
 					<li class="nav-item top-level {% if page.url == '/about' %}current{% endif %}">
 						{% assign about = site.html_pages | where: 'url', '/about' | first %}
 						<a href="{{ site.baseurl }}/about">About</a>
+					</li>
+
+					<li class="nav-item top-level {% if page.url == '/features' %}current{% endif %}">
+						{% assign features = site.html_pages | where: 'url', '/features' | first %}
+						<a href="{{ site.baseurl }}/features">Features</a>
 					</li>
 				</ul>
 
