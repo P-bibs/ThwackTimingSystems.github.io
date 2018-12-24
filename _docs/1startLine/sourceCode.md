@@ -8,7 +8,7 @@ order: 3
 
 As the start line is based around an Arduino Uno, its code is written in the Arduino programming language (an extension of C). A walk-through of the code can be found below 
 
-##Initialization
+## Initialization
 ```c
 #include <Key.h>
 #include <Keypad.h>
@@ -50,7 +50,7 @@ Keypad kpd = Keypad( makeKeymap(keys), rowPins, colPins, ROWS, COLS );
 ```
 This section initializes the keypad to accept input using the library imported above. For more explanation on this section, check out [this](https://playground.arduino.cc/code/keypad)
 
-##Setup
+## Setup
 ```c
 void setup() {
   // initialize the LED pin as an output:
@@ -64,7 +64,7 @@ void setup() {
 ```
 The setup Arduino function is run before the primary loop of the program begins. In our case, it sets each pin we are using to be an input or an output, and opens a serial communication channel over the Xbee with a baud rate of 9600.
 
-##Accept Input From Keypad
+## Accept Input From Keypad
 ```c
 void loop() {
   //---------
@@ -84,7 +84,7 @@ void loop() {
 ```
 Here is the first section of the `loop()` function, which loops continuously while the Arduino is powered on. This first section is in charge of accepting input on the keypad. Before racers start, they input their unique racer id (from 0-256) so their time can be tracked back to them later. This code block keeps track of digits as a user enters them, throwing out the oldest if more than three digits are entered. If a mistake is made, '#' or '*' can be entered to clear the input buffer.
 
-##Check If Wand Has Been Tripped
+## Check If Wand Has Been Tripped
 ```c
   //If the limit switch is not tripped (LOW signal)
   //then the wand has been triggered and start signal should be sent
@@ -98,7 +98,7 @@ Here is the first section of the `loop()` function, which loops continuously whi
 ```
 This code snippet checks to see if a racer has tripped the wand, and sends the start signal to the finish line if so. Its important to remember that when the wand is closed the limit switch is tripped. So, rather than check for a `HIGH` signal, as you would with a button, we check for a `LOW` signal.
 
-##Round Trip Time Test System
+## Round Trip Time Test System
 ```c
   //send first rtt test packet
   if(digitalRead(rttPin) == HIGH){
@@ -126,7 +126,7 @@ This code snippet checks to see if a racer has tripped the wand, and sends the s
 ```
 This code block implements the latency correction feature of the timing gate by conducting a test of the round-trip-time (rtt) of a packet. First, the start line sends a packet to the finish line and starts a timer. The finish line responds as quick as possible. When the start line receives this response, it stops the timer. Half this calculated time is the time it takes a packet to travel from the start line to the finish line. This time is reported back to the finish line, so it can add this time onto racer's times to account for packet transmission latency.
 
-##Check Sum Calculation Function
+## Check Sum Calculation Function
 ```c
 int calculateCheckSum(byte input){
   int tot = 0;
@@ -138,7 +138,7 @@ int calculateCheckSum(byte input){
 ```
 Part of the custom communication protocol used by the Thwack Timing Gate is a check sum: a mathematical function that takes a variable length input and returns a fixed length output. This check sum is computed over a packet before its sent and then transmitted along with the packet. The receiver performs the same computation over the received packet. If this computation mirrors the checksum originally transmitted, the packet is valid and can be used. If the checksums aren't the same, the packet has been corrupted in transit and must be thrown out.
 
-##Serial Flush Function
+## Serial Flush Function
 ```c
 void serialFlush(){
   while(Serial.available() > 0) {
@@ -148,7 +148,7 @@ void serialFlush(){
 ```
 A simple function to empty all data out of the Xbee's incoming buffer
 
-##Send Start Signal Function
+## Send Start Signal Function
 ```c
 void sendStartSignal(int Id){
   int header = 16; //00010000
