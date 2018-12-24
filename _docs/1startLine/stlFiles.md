@@ -4,16 +4,10 @@ category: Start Line
 order: 2
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+>Download the STL files for the start line [HERE](https://drive.google.com/drive/folders/1Q-u7U18tI-8YRp86teNnI6xgnS-2nZSA?usp=sharing)!
 
->Download all the files below [HERE](https://drive.google.com/drive/folders/1Q-u7U18tI-8YRp86teNnI6xgnS-2nZSA?usp=sharing)!
+All structural components are currently 3D printed. All the files are free to use and modify as you see fit. 
 
-> Signing up with Facebook automatically starts syncing contacts.
 
-To sync your contacts:
-
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
 
 ![](//placehold.it/800x600)
