@@ -20,7 +20,7 @@ from flask import Flask, jsonify, url_for, json, request
 app = Flask(__name__)
 ```
 
-### `GET` Results 
+### GET Results 
 ```python
 @app.route('/results', methods=['GET'])
 def getResults():
@@ -35,7 +35,7 @@ def getResults():
     return jsonify(data)
 ```
 
-### `GET` ID to Name Conversion Table
+### GET ID to Name Conversion Table
 ```python
 @app.route('/idTable', methods=['GET'])
 def getTable():
@@ -49,7 +49,7 @@ def getTable():
     return jsonify(data)
 ```
 
-### `POST` ID to Name Conversion Table
+### POST ID to Name Conversion Table
 ```python
 @app.route('/idTable', methods=['POST'])
 def setTable():
@@ -64,7 +64,7 @@ def setTable():
     return 'OK'
 ```
 
-##Timing
+## Timing
 ```python
 import os
 import time

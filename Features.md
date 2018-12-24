@@ -2,14 +2,16 @@
 title: Features
 ---
 
-##Easy Setup
+## Instant Feedback
 
-##Latency Correction
+## Easy Setup
 
-##Mobile App
+## Latency Correction
 
-##Open Source
-###Don't like Something? Change It!
+## Mobile App
+
+## Open Source
+### Don't like Something? Change It!
 
 
 

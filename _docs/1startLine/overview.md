@@ -6,9 +6,9 @@ order: 1
 
 The start line is rather simple: its only job is to allow racers to **input their ID number** and **send the start signal** to the finish line when the start wand is tripped
 
-This is accomplished with a minimal bill of matierals. Besides general electrical prototyping resources and 3d printed parts (which can be found in the next section), here is what you will need:
+This is accomplished with a minimal bill of materials. Besides general electrical prototyping resources and 3d printed parts (which can be found in the next section), here is what you will need:
 1. [Arduino Uno](arduinoLink)
-  1. [Xbee Arduino Shield](shieldLink)
+    1. [Xbee Arduino Shield](shieldLink)
 1. [2.4 Ghz Xbee](xbeeLink) with compatible [RPSMA Antenna](antennaLink)
 1. [9 Button Keypad](keypadLink)
 1. Micro Switch (triggerable with 0.005N-m of torque)
@@ -16,15 +16,8 @@ This is accomplished with a minimal bill of matierals. Besides general electrica
 
 > This Xbee works over 4000 feet with line of sight. If you need less distance, others can be substituted to save on cost. Just make sure you find a compatible antenna!
 
-
-> Syncing contacts with your phone restores any previously synced contacts.
-
-To sync your contacts:
-
-1. Open your *User Settings* on your phone app
-2. Select the **Sync Contacts** button
-3. Authorise ChatApp permissions
-4. Select some or all of your contacts
+> **A Note Regarding Power Supplies**
+> We have refrained from listing a power supply in the bill of materials, as we have found different solutions work well for different scenarios. Beyond simply wiring up a 9 volt battery or multiple AA batteries in parallel, we have also had success using USB battery banks that are widely available for charging cell phones. You simple need to take a USB cable and cut it open to expose the positive and ground wires, then plug these into the power terminals of the Arduino.
 
 ![](//placehold.it/800x600)
 

@@ -4,14 +4,4 @@ category: Finish Line
 order: 2
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
-
-> Signing up with Facebook automatically starts syncing contacts.
-
-To sync your contacts:
-
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
-
-![](//placehold.it/800x600)
+The part files for the finish line are still a work in progress. When they are available, you'll be able to find them [here](https://drive.google.com/drive/folders/1PCOME-K3l7NLGZUJSkJwqMsTevVabKQE?usp=sharing)
