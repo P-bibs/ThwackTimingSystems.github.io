@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: Thwack Timing Gate
+url: "https://thwacktiminggate.com"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-131361578-1
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)

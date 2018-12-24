@@ -1,6 +1,9 @@
 ---
-title: Welcome
+title: Thwack Timing Gate
 ---
+
+This is the documentation and blog for the **Thwack Timing Gate**, a cheap, open-source, wireless timing system for alpine skiing.
+
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
 **Edition** is perfect for documenting your product, application or service.
