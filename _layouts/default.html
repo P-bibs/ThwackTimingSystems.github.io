@@ -43,11 +43,9 @@
 						{% assign home = site.html_pages | where: 'url', '/' | first %}
 						<a href="{{ site.baseurl }}/">{{ home.title }}</a>
 					</li>
-				</ul>
-
-				<ul>
+					
 					<li class="nav-item top-level {% if page.url == '/about' %}current{% endif %}">
-						{% assign home = site.html_pages | where: 'url', '/about' | first %}
+						{% assign about = site.html_pages | where: 'url', '/about' | first %}
 						<a href="{{ site.baseurl }}/about">{{ about.title }}</a>
 					</li>
 				</ul>
