@@ -11,5 +11,5 @@ title: Features
 ## Mobile App
 
 ## Open Source
-### Don't like Something? Change It!
+#### Don't like Something? Change It!
 

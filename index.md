@@ -4,7 +4,7 @@ title: Welcome
 
 This is the documentation and blog for the **Thwack Timing Gate**, a low-cost, open-source, wireless timing system for alpine skiing.
 
-> You can learn more about us and our story below, or read the blog with the link to the left, or skip straight to the technical stuff with the other links on the left.
+> You can learn more about **us and our story** below, or read the **blog** with the link to the left, or skip straight to **the technical stuff** with the other links on the left.
 
 ---
 
