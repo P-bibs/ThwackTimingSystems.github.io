@@ -1,7 +1,7 @@
 ---
 title: Source Code
 category: Start Line
-order: 3
+order: 2
 ---
 
 > The Github Repository for the start line can be found [here](https://github.com/ThwackTimingSystems/ThwackTimingGateStartLine)

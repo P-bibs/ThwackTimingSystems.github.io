@@ -1,7 +1,7 @@
 ---
 title: Source Code
 category: Finish Line
-order: 3
+order: 2
 ---
 
 > The Github Repository for the finish line can be found [here (timing)](https://github.com/ThwackTimingSystems/ThwackTimingGateFinishLine) and [here (webserver)](https://github.com/ThwackTimingSystems/ThwackTimingGateServer)
