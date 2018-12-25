@@ -44,11 +44,6 @@
 						{% assign home = site.html_pages | where: 'url', '/' | first %}
 						<a href="{{ site.baseurl }}/">{{ home.title }}</a>
 					</li>
-					
-					<li class="nav-item top-level {% if page.url == '/about' %}current{% endif %}">
-						{% assign about = site.html_pages | where: 'url', '/about' | first %}
-						<a href="{{ site.baseurl }}/about">About</a>
-					</li>
 
 					<li class="nav-item top-level {% if page.url == '/features' %}current{% endif %}">
 						{% assign features = site.html_pages | where: 'url', '/features' | first %}
@@ -72,9 +67,9 @@
 				</ul>
 
 				<ul>
-					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
-						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
-						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
+					<li class="nav-item top-level {% if page.url == '/blog/' %}current{% endif %}">
+						{% assign blog = site.html_pages | where: 'url', '/blog/' | first %}
+						<a href="{{ site.baseurl }}/blog/">{{ blog.title }}</a>
 					</li>
 				</ul>
 			</nav>
