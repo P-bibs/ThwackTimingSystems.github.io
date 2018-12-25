@@ -12,7 +12,7 @@ This is the documentation and blog for the **Thwack Timing Gate**, a low-cost, o
 
 ## Bios
 #### Paul Biberstein
-##### Software Monkey and Documentation Kermudgeon
+##### Software Monkey and Documentation Curmudgeon
 ##### Skis Sugarloaf
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam placerat massa ac velit viverra tristique. Nullam lacinia arcu est, in dictum ligula euismod vel. Vivamus ligula ante, pellentesque id sodales sit amet, hendrerit at risus. Vivamus ut purus sit amet risus faucibus volutpat. Integer et mi dictum, pellentesque diam sed, ullamcorper libero.
 #### Jacob Selian
@@ -39,6 +39,10 @@ Surely a brilliant idea, but the logistical problems of watch and phone stopwatc
 The boys were convinced they could do it for less and were further encouraged as time progressed by the potential market for the system. Other team's coaches expressed interest, and as the track and field season began it became clear that a similar timing system would be indispensable to dedicated sprinters as well as skiers. 
 
 So, as many enterprising entrepreneurs had done before them, they set out with the noble cause of making a low-cost product in a stagnant industry. Further, they decided to keep a blog along the way and open source any and all designs and code they came up with, to hopefully help future engineers  understand the more esoteric parts of microcontrollers, programming, and CAD.
+
+---
+
+TODO add ski videos "if you got this far, why not look at some ski videos". "Got some funny ones, send them our way and we'll put them here"
 
 [blogLink]: https://thwacktiminggate.com/blog/
 [featuresLink]: https://thwacktiminggate.com/features/

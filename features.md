@@ -6,7 +6,7 @@ title: Features
 Plug the batteries in and wait for the green light. Set it up anywhere and its ready to go. (Ok, almost anywhere. Snow not included).
 
 ## Custom Communication Protocol
-The Thwack Timing Gate utilizes a specially designed lightweight communication protocol to communicate between the start and finish line. This reduces overhead and ensures your results are as accurate as possible
+The Thwack Timing Gate utilizes a specially designed, lightweight communication protocol to communicate between the start and finish line. This reduces overhead and ensures your results are as accurate as possible
 
 ## Latency Correction
 Of course, nothing can be entirely without delay, but we're aware of our imperfections. The Thwack Timing Gate periodically calculates the latency caused by wireless transmission and corrects for the delay when logging times.
@@ -16,4 +16,4 @@ We've got an old fashioned 7 segment display at the finish line to see your time
 
 ## Open Source
 #### Don't like Something? Change It!
-Maybe a design choice we made isn't to your liking. Well, why not change it yourself. Don't worry, we won't take it personally.
+Maybe a design choice we made isn't to your liking. Well, why not change it yourself? Don't worry, we won't take it personally.
