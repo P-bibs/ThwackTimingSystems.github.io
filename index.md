@@ -1,5 +1,6 @@
 ---
 title: Welcome
+image: /images/4.png
 ---
 
 ![](images/4.png)
