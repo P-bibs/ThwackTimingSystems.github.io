@@ -1,10 +1,10 @@
 ---
-title: Documentation
-category: Read Me!
+title: Read Me!
+category: Documentation
 order: 1
 ---
 
-All this following software and part files are provided free (as in freedom). You're free to download them, run them, remix them, redistribute them, build them, break them and any other verbs you can think up. 
+All the following software and part files are provided free (as in freedom). You're free to download them, run them, remix them, redistribute them, build them, break them and any other verbs you can think up. 
 
 > But, if you do something cool, let us know!
 
