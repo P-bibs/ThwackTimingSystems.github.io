@@ -6,37 +6,30 @@ This is the documentation and blog for the **Thwack Timing Gate**, a low-cost, o
 
 > You can learn more about our story [here](https://thwacktiminggate.com/about)
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+## Bios
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+### Paul Biberstein
+#### Skis Sugarloaf
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam placerat massa ac velit viverra tristique. Nullam lacinia arcu est, in dictum ligula euismod vel. Vivamus ligula ante, pellentesque id sodales sit amet, hendrerit at risus. Vivamus ut purus sit amet risus faucibus volutpat. Integer et mi dictum, pellentesque diam sed, ullamcorper libero.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+### Jacob Selian
+#### Skied Saddleback until 2015 (RIP Saddleback)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam placerat massa ac velit viverra tristique. Nullam lacinia arcu est, in dictum ligula euismod vel. Vivamus ligula ante, pellentesque id sodales sit amet, hendrerit at risus. Vivamus ut purus sit amet risus faucibus volutpat. Integer et mi dictum, pellentesque diam sed, ullamcorper libero.
 
-### Getting Started
+## Our Story
 
-Getting a message sent is quick and easy with ChatApp:
+This website hosts the work of two students at Freeport High School—Paul Biberstein and Jacob Selian—as they design and construct the **Thwack Timing Gate**, a low-cost, open-source, wireless timing system for alpine skiing.
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+What is the Thwack Timing Gate exactly? Well, the idea started back in the winter of 2018. The two high school students, both avid members of Freeport High School's alpine ski race team, found themselves training late into the night at Lost Valley ski mountain. Nocturnal practices were required, as the few days of the week the team could secure a bus to make the 40 minute journey to the mountain needed to be maximized. So they would spend hours on the mountain, racing through a ragtag set of 20 or so slalom gates, then go back up the lift and do it again.
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
 
-### Features
+<p style="text-align: center;"><img src="images/LostValleyMap.png" alt="Map from Freeport to Lost Valley"></p>
+<p style="text-align: center;"> The arduous journey from Freeport to Lost Valley</p>
 
-Explore more of ChatApp by reading about our features:
+Somewhere along the way, an idea came into being. If our opportunities to train are so few and far between, why not make the most of the times when we can train? Specifically, why don't we time our runs down the practice course so we can see which techniques improve our time and which ones make us slower.
 
-#### Media
+Surely a brilliant idea, but the logistical problems of watch and phone stopwatches mounted up and the duo soon realized that this was no small task. In fact, many larger corporations make just such consumer grade wireless timing systems. However, these kits cost somewhere in the range of a few thousand dollars or more—outside the ski team's budget.
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+The boys were convinced they could do it for less and were further encouraged as time progressed by the potential market for the system. Other team's coaches expressed interest, and as the track and field season began it became clear that a similar timing system would be indispensable to dedicated sprinters as well as skiers. 
 
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+So, as many enterprising entrepreneurs had done before them, they set out with the noble cause of making a low-cost product in a stagnant industry. Further, they decided to keep a blog along the way and open source any and all designs and code they came up with, to hopefully help future engineers  understand the more esoteric parts of microcontrollers, programming, and CAD.
