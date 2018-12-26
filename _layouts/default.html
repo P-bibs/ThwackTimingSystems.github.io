@@ -81,7 +81,7 @@
 		<section class="main">
 			<div class="page-header">
 				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
-				<h3>{{ page.title }} {% if page.image %}<img src="{{ page.image | prepend: site.baseurl }}"></h3>
+				<h3>{{ page.title }} {% if page.image %}<img src="{{ page.image | prepend: site.baseurl }}">{% endif %}</h3>
 			</div>
 			<article class="content">
 				{{ content }}
