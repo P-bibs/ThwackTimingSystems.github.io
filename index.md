@@ -15,11 +15,11 @@ This is the documentation and blog for the **Thwack Timing Gate**, a low-cost, o
 
 ## Bios
 #### Paul Biberstein
-##### Software Monkey and Documentation Curmudgeon
+##### Software Monkey, CAD Hermit and Documentation Curmudgeon
 ##### Skis Sugarloaf
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam placerat massa ac velit viverra tristique. Nullam lacinia arcu est, in dictum ligula euismod vel. Vivamus ligula ante, pellentesque id sodales sit amet, hendrerit at risus. Vivamus ut purus sit amet risus faucibus volutpat. Integer et mi dictum, pellentesque diam sed, ullamcorper libero.
 #### Jacob Selian
-##### CAD Hermit and Sensor Wizard
+##### Mechanical Guru and Sensor Wizard
 ##### Skied Saddleback until 2015 (RIP Saddleback)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam placerat massa ac velit viverra tristique. Nullam lacinia arcu est, in dictum ligula euismod vel. Vivamus ligula ante, pellentesque id sodales sit amet, hendrerit at risus. Vivamus ut purus sit amet risus faucibus volutpat. Integer et mi dictum, pellentesque diam sed, ullamcorper libero.
 
