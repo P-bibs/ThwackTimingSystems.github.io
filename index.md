@@ -3,7 +3,7 @@ title: Welcome
 image: /images/4.png
 ---
 
-![](images/4.png)
+![](images/fullLogo.png)
 
 This is the documentation and blog for the **Thwack Timing Gate**, a low-cost, open-source, wireless timing system for alpine skiing.
 
