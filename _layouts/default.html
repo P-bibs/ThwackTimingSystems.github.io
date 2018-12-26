@@ -27,10 +27,9 @@
 	<body>
 		<header>
 			<h1>
-				<div style="width:200px;height:70px;overflow:hidden">
-					<img src="{{ site.baseurl }}/images/4.png" />
-				</div>
-				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/4.png" width="120" height="60" alt="{{ site.title }} logo"></a>
+				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/croppedLogo.png" width="40" height="40" alt="{{ site.title }} logo"></a>
+				{{ site.title }}
+				<button type="button" class="open-nav" id="open-nav"></button>
 			</h1>
 
 			<form action="{{ site.baseurl }}/search/" method="get">
@@ -81,7 +80,7 @@
 		<section class="main">
 			<div class="page-header">
 				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
-				<h3>{{ page.title }} {% if page.image %}<img src="{{ page.image | prepend: site.baseurl }}">{% endif %}</h3>
+				<h3>{{ page.title }}</h3>
 			</div>
 			<article class="content">
 				{{ content }}
