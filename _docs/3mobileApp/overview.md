@@ -12,6 +12,8 @@ The Thwack Timing Gate mobile app allows the retrieval and sorting of data, as w
 
 ### Card Based Results
 <img src="/images/app/sortView.png" width="180" height="370"/> | Results are neatly categorized into easily readable cards in a modern looking interface.
+--- | --- 
+*Still* | `renders` 
 
 #### Sort Your Results
 A convenient floating action button allows sorting of cards by racer, by start time, and by run duration.
