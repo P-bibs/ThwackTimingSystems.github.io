@@ -2,8 +2,8 @@
 title: Overview
 category: Mobile App
 order: 1
-width: 740
-height: 360
+width: 555
+height: 270
 ---
 
 <div class="video_wrapper">
