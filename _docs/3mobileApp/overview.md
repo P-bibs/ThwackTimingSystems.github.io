@@ -33,8 +33,3 @@ An easily accessible settings tab allows configuration of the Thwack Timing Gate
 <p style="text-align: center;"><img src="/images/app/idToNameTable.png" width="{{ page.width }}" height="{{ page.height }}"></p>
 
 The start line features a keypad for racers to punch in their IDs. Use this interface to edit the table that converts these IDs to actual racer names.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
