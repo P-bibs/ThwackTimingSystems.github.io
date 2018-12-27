@@ -8,9 +8,9 @@ order: 1
 The finish line is the main brains of the timing gate. It **times racers** as they go down the course and holds the **database of results**. Users can connect to the **web server** the finish line hosts to retrieve these results.
 
 The design of the finish lines is not complete yet. Specifically, we are still researching powerful infra-red LEDs to use for a finish line break-beam sensor. Below is a partial list of materials.
-1. [Raspberry Pi Model 3 B+](piLink)
-1. [2.4 Ghz Xbee](xbeeLink) with compatible [RPSMA Antenna](antennaLink)
-1. [1.2" 7 Segment Display](displayLink)
+1. [Raspberry Pi Model 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
+1. [2.4 Ghz Xbee](https://www.mouser.com/ProductDetail/Digi-International/XB24CDMSIT-001/?qs=XmMZR4xR0DDHBWHJZQYv7A%3d%3d&utm_source=eciaauthorized&utm_medium=aggregator&utm_campaign=XB24CDMSIT-001&utm_term=XB24CDMSIT-001&utm_content=Digi-International) with compatible [RPSMA Antenna](https://www.sparkfun.com/products/558)
+1. [1.2" 7 Segment Display](https://www.adafruit.com/product/1270)
 
 > This Xbee works over 4000 feet with line of sight. If you need less distance, others can be substituted to save on cost. Just make sure you find a compatible antenna!
 
@@ -19,8 +19,3 @@ The design of the finish lines is not complete yet. Specifically, we are still r
 
 
 ![](//placehold.it/800x600)
-
-[piLink]: https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/
-[xbeeLink]: https://www.mouser.com/ProductDetail/Digi-International/XB24CDMSIT-001/?qs=XmMZR4xR0DDHBWHJZQYv7A%3d%3d&utm_source=eciaauthorized&utm_medium=aggregator&utm_campaign=XB24CDMSIT-001&utm_term=XB24CDMSIT-001&utm_content=Digi-International
-[antennaLink]: https://www.sparkfun.com/products/558
-[displayLink]: https://www.adafruit.com/product/1270
