@@ -6,8 +6,8 @@ order: 1
 
 All the following software and part files are provided free (as in freedom). You're free to download them, run them, remix them, redistribute them, build them, break them and any other verbs you can think up. 
 
-TODO add note about sending us an image if you end up building it
-> But, if you do something cool, let us know!
+
+> But, if you do end up building your own version or making neat additions, let us know at <b><a href="mailto:thwack.timingsystems@gmail.com">Thwack.TimingSystems@gmail.com</a></b>. We'd love to showcase your work!
 
 The documentation is organized into 3 sections
 

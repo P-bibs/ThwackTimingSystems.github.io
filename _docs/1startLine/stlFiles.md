@@ -8,6 +8,7 @@ order: 3
 
 All structural components are currently 3D printed. All the files are free to use and modify as you see fit. 
 
+The full SolidWorks assembly is also available and is pictured below.
 
-
-![](//placehold.it/800x600)
+![](/images/startLine/full.png)
+![](/images/startLine/fullExplode.png)

@@ -45,6 +45,10 @@ So, as many enterprising entrepreneurs had done before them, they set out with t
 
 ---
 
+## Why Thwack?
+
+As any seasoned racer will know, a properly deflected slalom gate makes a very distinctive and satisfying noise as it is punched out of your way. The onomatopeia for that noise is best described as "*Thwack*." What better feeling is there than a good *thwack* of a slalom gate. So, we decided it would make a good name for our project as well.
+
 TODO add ski videos "if you got this far, why not look at some ski videos". "Got some funny ones, send them our way and we'll put them here"
 
 [blogLink]: https://thwacktiminggate.com/blog/
