@@ -15,13 +15,13 @@ This is the documentation and blog for the **Thwack Timing Gate**, a low-cost, o
 
 ## Bios
 #### Paul Biberstein
-##### Software Monkey, CAD Hermit and Documentation Curmudgeon
+##### Software Monkey, CAD Hermit and Website Architect
 ##### Skis Sugarloaf Mountain
 Paul Biberstein is a senior at Freeport High School. When not on snow, he enjoys running cross country, programming, and making music. He started ski racing as a freshmen and has raced every year since.
 #### Jacob Selian
 ##### Mechanical Guru and Sensor Wizard
 ##### Skied Saddleback until 2015 (RIP Saddleback)
-Jacob Selian is a senior at Freeport High School. While hes a fan of skiing, he also enjoys the summer months when he can go sailing, his other favorite sport. When not being an engineer, he enjoys history and cars.
+Jacob Selian is a senior at Freeport High School. While he's a fan of skiing, he also enjoys the summer months when he can go sailing, his other favorite sport. When not being an engineer, he enjoys history and cars.
 
 ---
 
@@ -52,5 +52,5 @@ As any seasoned racer will know, a properly deflected slalom gate makes a very d
 ---
 
 ## Made it This Far?
-Good for you! That was certainly a lot of words. As a reward, [here's](https://www.youtube.com/watch?v=D2SoGHFM18I) a cool snow related video that we enjoy. And if you're looking for something more ski related, [here's](https://www.youtube.com/watch?v=wov1DA-Jtjc) the coolest ski video of 2018 (probably) (ok maybe not but its still cool).
+Good for you! That was certainly a lot of words. As a reward, [here's](https://www.youtube.com/watch?v=D2SoGHFM18I) a cool snow related video that we enjoy. And if you're looking for something more ski related, [here's](https://www.youtube.com/watch?v=wov1DA-Jtjc) the coolest ski video of 2018 (probably) (ok maybe not but it's still cool).
 > Got a cool ski video? <a href="mailto:thwack.timingsystems@gmail.com">Send it to us </a> and we'll put it here.
