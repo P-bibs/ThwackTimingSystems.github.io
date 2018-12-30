@@ -16,18 +16,18 @@ This is the documentation and blog for the **Thwack Timing Gate**, a low-cost, o
 ## Bios
 #### Paul Biberstein
 ##### Software Monkey, CAD Hermit and Documentation Curmudgeon
-##### Skis Sugarloaf
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam placerat massa ac velit viverra tristique. Nullam lacinia arcu est, in dictum ligula euismod vel. Vivamus ligula ante, pellentesque id sodales sit amet, hendrerit at risus. Vivamus ut purus sit amet risus faucibus volutpat. Integer et mi dictum, pellentesque diam sed, ullamcorper libero.
+##### Skis Sugarloaf Mountain
+Paul Biberstein is a senior at Freeport High School. When not on snow, he enjoys running cross country, programming, and making music. He started ski racing as a freshmen and has raced every year since.
 #### Jacob Selian
 ##### Mechanical Guru and Sensor Wizard
 ##### Skied Saddleback until 2015 (RIP Saddleback)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam placerat massa ac velit viverra tristique. Nullam lacinia arcu est, in dictum ligula euismod vel. Vivamus ligula ante, pellentesque id sodales sit amet, hendrerit at risus. Vivamus ut purus sit amet risus faucibus volutpat. Integer et mi dictum, pellentesque diam sed, ullamcorper libero.
+Jacob Selian is a senior at Freeport High School. While hes a fan of skiing, he also enjoys the summer months when he can go sailing, his other favorite sport. When not being an engineer, he enjoys history and cars.
 
 ---
 
 ## Our Story
 
-This website hosts the work of two students at [http://www.rsu5.org/school_home.aspx?schoolId=1](freeportLink)—Paul Biberstein and Jacob Selian—as they design and construct the **Thwack Timing Gate**, a low-cost, open-source, wireless timing system for alpine skiing.
+This website hosts the work of two students at [Freeport High School](http://www.rsu5.org/school_home.aspx?schoolId=1)—Paul Biberstein and Jacob Selian—as they design and construct the **Thwack Timing Gate**, a low-cost, open-source, wireless timing system for alpine skiing.
 
 What is the Thwack Timing Gate exactly? Well, the idea started back in the winter of 2018. The two high school students, both avid members of Freeport High School's alpine ski race team, found themselves training late into the night at [Lost Valley](http://www.lostvalleyski.com/) ski mountain. Nocturnal practices were required, as the few days of the week the team could secure a bus to make the 40 minute journey to the mountain needed to be maximized. So they would spend hours on the mountain, racing through a ragtag set of 20 or so slalom gates, then go back up the lift and do it again.
 

@@ -12,6 +12,7 @@ height: 180
 
 The Thwack Timing Gate mobile app allows the retrieval and sorting of data, as well as configuraiton of the timing gate itself. Below are a few key features, which can be seen in action in the above video.
 
+## Features
 ### Card Based Results
 <p style="text-align: center;"><img src="/images/app/sortView.png" width="{{ page.width }}" height="{{ page.height }}"></p>
 Results are neatly categorized into easily readable cards in a modern looking interface.
