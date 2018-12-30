@@ -15,7 +15,7 @@ This is the documentation and blog for the **Thwack Timing Gate**, a low-cost, o
 
 ## Bios
 #### Paul Biberstein
-##### Software Monkey, CAD Hermit and Website Architect
+##### Software Monkey, CAD Hermit and Website Wordsmith
 ##### Skis Sugarloaf Mountain
 Paul Biberstein is a senior at Freeport High School. When not on snow, he enjoys running cross country, programming, and making music. He started ski racing as a freshmen and has raced every year since.
 #### Jacob Selian
