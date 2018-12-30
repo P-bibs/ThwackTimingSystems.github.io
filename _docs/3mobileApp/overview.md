@@ -10,7 +10,7 @@ height: 180
   <iframe src="https://www.youtube.com/embed/TYNzY31ogd4?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The Thwack Timing Gate mobile app allows the retrieval and sorting of data, as well as configuraiton of the timing gate itself. Below are a few key features, which can be seen in action in the above video.
+The Thwack Timing Gate mobile app allows the retrieval and sorting of data, as well as configuration of the timing gate itself. Below are a few key features, which can be seen in action in the above video.
 
 ## Features
 
@@ -24,7 +24,7 @@ A convenient floating action button allows sorting of cards by racer, by start t
 ### See One Racer's Results
 <p style="text-align: center;"><img src="/images/app/oneRacerView.png" width="{{ page.width }}" height="{{ page.height }}"></p>
 
-Feeling a little narcisitic? Care about your results and no one elses? Just tab the button on one of your cards and everyone else's results will be swept away so you can bask in your own success.
+Feeling a little narcissistic? Care about your results and no one elses? Just tab the button on one of your cards and everyone elses results will be swept away so you can bask in your own success.
 
 ### Settings Tab
 <p style="text-align: center;"><img src="/images/app/settingsView.png" width="{{ page.width }}" height="{{ page.height }}"></p>

@@ -9,7 +9,7 @@ This is the documentation and blog for the **Thwack Timing Gate**, a low-cost, o
 
 > You can learn more about **us and our story** below, read the **[blog](https://thwacktiminggate.com/blog/)**, see the devices coolest **[features](https://thwacktiminggate.com/features/)**, or just skip straight to **the technical stuff** with the links on the left.
 
-> Have inquirys, well-wishes, or just existential musings? Send them our way at <b><a href="mailto:thwack.timingsystems@gmail.com">Thwack.TimingSystems@gmail.com</a></b>
+> Have inquires, well-wishes, or just existential musings? Send them our way at <b><a href="mailto:thwack.timingsystems@gmail.com">Thwack.TimingSystems@gmail.com</a></b>
 
 ---
 
@@ -47,7 +47,7 @@ So, as many enterprising entrepreneurs had done before them, they set out with t
 
 ## Why Thwack?
 
-As any seasoned racer will know, a properly deflected slalom gate makes a very distinctive and satisfying noise as it is punched out of your way. The onomatopeia for that noise is best described as "*Thwack*." What better feeling is there than a good *thwack* of a slalom gate. So, we decided it would make a good name for our project as well.
+As any seasoned racer will know, a properly deflected slalom gate makes a very distinctive and satisfying noise as it is punched out of your way. The onomatopoeia for that noise is best described as "*Thwack*." What better feeling is there than a good *thwack* of a slalom gate. So, we decided it would make a good name for our project as well.
 
 ---
 
