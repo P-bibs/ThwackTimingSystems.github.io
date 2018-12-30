@@ -52,5 +52,5 @@ As any seasoned racer will know, a properly deflected slalom gate makes a very d
 ---
 
 ## Made it This Far?
-Good for you! That was certainly a lot of words. As a reward, [here's](https://www.youtube.com/watch?v=D2SoGHFM18I) a cool snow related video that we enjoy. And if you're looking for something more ski related, [here's](https://www.youtube.com/watch?v=wov1DA-Jtjc) the coolest ski video of 2018 (probably) (ok maybe not but it's still cool).
+Good for you! That was certainly a lot of words. As a reward, [here's](https://www.youtube.com/watch?v=D2SoGHFM18I) a cool snow related video that we enjoy. And if you're looking for something more ski related, [here's](https://www.youtube.com/watch?v=wov1DA-Jtjc) the coolest ski video of 2018 (probably) (ok maybe not, but it's still cool).
 > Got a cool ski video? <a href="mailto:thwack.timingsystems@gmail.com">Send it to us </a> and we'll put it here.
