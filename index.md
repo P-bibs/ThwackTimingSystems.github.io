@@ -13,6 +13,14 @@ This is the documentation and blog for the **Thwack Timing Gate**, a low-cost, o
 
 ---
 
+## Demonstration
+<div class="video_wrapper">
+  <iframe src="https://www.youtube.com/embed/lincLmESQjA?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+A demonstration of the Thwack Timing Gate as we have it working so far.
+
+---
+
 ## Bios
 #### Paul Biberstein
 ##### Software Monkey, CAD Hermit and Website Wordsmith
