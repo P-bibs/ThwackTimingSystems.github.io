@@ -4,7 +4,7 @@ category: Mobile App
 order: 2
 ---
 
-> The Github repository for the mobile app can be found [here]{https://github.com/ThwackTimingSystems/ThwackTimingGateApp}
+> The Github repository for the mobile app can be found [here](https://github.com/ThwackTimingSystems/ThwackTimingGateApp)
 
 The mobile app is built using Google's cross platform app development framework [Flutter](https://flutter.io/). Here are some resources that you may find helpful in understanding and extending the app.
 
